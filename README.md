@@ -131,13 +131,13 @@ This is a project-defined analytical indicator, not a validated prediction of em
 
 Dashboard screenshots are available in the `screenshots/` folder.
 
-- Workforce Overview
-- Attrition Analysis
-- Employee Engagement
-- Compensation Analysis
-- Promotion and Retrenchment
-- HR Risk Analysis
-- Employee Detail
+- workforce-overview.png
+- attrition-analysis.png
+- employee-engagement.png
+- compensation-analysis.png
+- promotion-retrenchment.png
+- employee-risk.png
+- employee-detail.png
 
 ## How to Use
 
