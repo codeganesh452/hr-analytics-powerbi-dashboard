@@ -129,15 +129,26 @@ This is a project-defined analytical indicator, not a validated prediction of em
 
 ## Project Screenshots
 
-Dashboard screenshots are available in the `screenshots/` folder.
+### 1. Workforce Overview
+![Workforce Overview](workforce-overview.png)
 
-- workforce-overview.png
-- attrition-analysis.png
-- employee-engagement.png
-- compensation-analysis.png
-- promotion-retrenchment.png
-- employee-risk.png
-- employee-detail.png
+### 2. Attrition Analysis
+![Attrition Analysis](attrition-analysis.png)
+
+### 3. Employee Engagement
+![Employee Engagement](employee-engagement.png)
+
+### 4. Compensation Analysis
+![Compensation Analysis](compensation-analysis.png)
+
+### 5. Promotion and Retrenchment
+![Promotion and Retrenchment](promotion-retrenchment.png)
+
+### 6. HR Risk Analysis
+![HR Risk Analysis](employee-risk.png)
+
+### 7. Employee Detail
+![Employee Detail](employee-detail.png)
 
 ## How to Use
 
